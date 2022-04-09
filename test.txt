@@ -1,0 +1,2 @@
+git config--global user.name "Филипп"
+git config--global user.email questspacefvnv@gmail.com
